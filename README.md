@@ -27,6 +27,11 @@ Currently studying and practicing:
 > All security practices documented here are performed in personal labs, CTFs or explicitly authorized environments.
 
 ---
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ##  Current Focus
 
