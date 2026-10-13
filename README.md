@@ -1,7 +1,7 @@
 <!-- trashe33 // CYBERSECURITY PROFILE -->
 <div align="center">
 
-<img width="100%" alt="trashe33 cybersecurity banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080c,45:101820,100:007f62&height=230&section=header&text=TRASHEEXE&fontSize=62&fontColor=00FFAA&animation=fadeIn&fontAlignY=37&desc=CYBERSECURITY%20%2F%2F%20SECURITY%20AUTOMATION%20%2F%2F%20NETWORK%20SECURITY&descAlignY=60&descSize=16" />
+<img width="100%" alt="trashe33 cybersecurity banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080c,45:101820,100:007f62&height=230&section=header&text=trashe33&fontSize=62&fontColor=00FFAA&animation=fadeIn&fontAlignY=37&desc=CYBERSECURITY%20%2F%2F%20SECURITY%20AUTOMATION%20%2F%2F%20NETWORK%20SECURITY&descAlignY=60&descSize=16" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00FFAA&center=true&vCenter=true&width=780&height=62&lines=root%40trasheexe%3A~%24+whoami;Jorge+Nolasco+%7C+Cybersecurity+Student;Python+%7C+Linux+%7C+Networking+%7C+Web+Security;Building+tools.+Learning+security.;Authorized+environments+only.)](https://github.com/trasheexe)
 
