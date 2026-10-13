@@ -7,7 +7,7 @@
 
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-0B1117?style=for-the-badge&logo=hackthebox&logoColor=00FFAA)
 ![Blue Team](https://img.shields.io/badge/BLUE_TEAM_LEARNING-0B1117?style=for-the-badge&logo=shield&logoColor=00FFAA)
-![Red Team](https://img.shields.io/badge/BLUE_TEAM_LEARNING-0B1117?style=for-the-badge&logo=shield&logoColor=00FFAA)
+![Red Team](https://img.shields.io/badge/RED_TEAM_LEARNING-0B1117?style=for-the-badge&logo=shield&logoColor=00FFAA)
 ![Python](https://img.shields.io/badge/PYTHON_AUTOMATION-0B1117?style=for-the-badge&logo=python&logoColor=00FFAA)
 ![Open to learn](https://img.shields.io/badge/STATUS-LEARNING-0B1117?style=for-the-badge&labelColor=0B1117&color=005B46)
 
